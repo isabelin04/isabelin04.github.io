@@ -2,13 +2,15 @@
 *{
     font-family: 'Poppins',cursive;
 }
-.texto{
-    padding: 5%;
+
+.pie{
+    font-size: 10px;
 }
+
 body{
     color: azure;
     width: 100%;
-    height: 82vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
